@@ -1,0 +1,29 @@
+C:\Users\alsheikh\source\repos\Project_DataBase\bin\Debug\Project_DataBase.exe.config
+C:\Users\alsheikh\source\repos\Project_DataBase\bin\Debug\Project_DataBase.exe
+C:\Users\alsheikh\source\repos\Project_DataBase\bin\Debug\Project_DataBase.pdb
+C:\Users\alsheikh\source\repos\Project_DataBase\bin\Debug\Oracle.DataAccess.dll
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.csprojAssemblyReference.cache
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.Form1.resources
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.Properties.Resources.resources
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.csproj.GenerateResource.cache
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.csproj.CopyComplete
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.exe
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.pdb
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.Form2.resources
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.Login.resources
+C:\Users\alsheikh\source\repos\Project_DataBase\obj\Debug\Project_DataBase.main.resources
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\bin\Debug\Project_DataBase.exe.config
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\bin\Debug\Project_DataBase.exe
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\bin\Debug\Project_DataBase.pdb
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.csprojAssemblyReference.cache
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.Form1.resources
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.Form2.resources
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.Login.resources
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.main.resources
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.Properties.Resources.resources
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.csproj.GenerateResource.cache
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.csproj.CoreCompileInputs.cache
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.exe
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.pdb
+D:\Fcis\1.Data\Level 3\2.Second Term\Database\Project\Project_DataBase\obj\Debug\Project_DataBase.getid.resources
